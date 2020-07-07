@@ -61,14 +61,25 @@ padding: 40px 0px;
 }
 #Categories{
     margin-bottom: 50px;
+   
 }
 .Categories{
     text-align: center;
-    padding-bottom: 8px;
     border-bottom: 3px solid rgb(95, 228, 34);
-    
- 
+    padding-bottom: 20px;
+  
 }
+.carousel-indicators .active{
+    background-color: rgb(170, 248, 44) !important;
+}
+.carousel-indicators li{
+    background-color: rgb(146, 146, 146) !important;
+    height: 8px;
+    width: 40px;
+    border-radius: 11px;
+    
+}
+
 .img-size img{
     width:100%;
     
@@ -141,6 +152,15 @@ padding: 40px 0px;
     box-shadow: 5px 5px 10px rgb(211, 210, 210);
     border: none;
     outline: 0;
+  }
+  .all-img-hover{
+   
+      transition: transform .5s;
+      margin: 0 auto;  
+  }
+  .all-img-hover:hover{
+   
+     transform: scale(1.08); 
   }
   .sumbit{
       background-color: rgb(211, 210, 210);
