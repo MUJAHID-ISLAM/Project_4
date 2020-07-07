@@ -59,16 +59,18 @@ padding: 40px 0px;
     color: coral;
     text-decoration: none;
 }
-#Categories{
-    margin-bottom: 50px;
+
+.carousel-indicators .active{
+    background-color: rgb(170, 248, 44) !important;
 }
-.Categories{
-    text-align: center;
-    padding-bottom: 8px;
-    border-bottom: 3px solid rgb(95, 228, 34);
+.carousel-indicators li{
+    background-color: rgb(146, 146, 146) !important;
+    height: 8px;
+    width: 40px;
+    border-radius: 11px;
     
- 
 }
+
 .img-size img{
     width:100%;
     
@@ -142,6 +144,15 @@ padding: 40px 0px;
     border: none;
     outline: 0;
   }
+  .all-img-hover{
+   
+      transition: transform .5s;
+      margin: 0 auto;  
+  }
+  .all-img-hover:hover{
+   
+     transform: scale(1.08); 
+  }
   .sumbit{
       background-color: rgb(211, 210, 210);
       margin-bottom: 100px;
@@ -149,3 +160,23 @@ padding: 40px 0px;
   .footer{
       text-align: center;
   }
+
+
+
+  .categoris-section{
+      width: 150px;
+      margin: 0 auto;
+     padding-bottom: 10px;
+ 
+  }
+  .orange-border{
+      
+      width: 150px;
+      margin: 0 auto;  
+      height: 8px;
+      background-color: orange;
+      border-radius: 10px;
+      margin-bottom: 80px;
+   
+  }
+  
