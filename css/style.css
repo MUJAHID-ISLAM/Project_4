@@ -59,16 +59,7 @@ padding: 40px 0px;
     color: coral;
     text-decoration: none;
 }
-#Categories{
-    margin-bottom: 50px;
-   
-}
-.Categories{
-    text-align: center;
-    border-bottom: 3px solid rgb(95, 228, 34);
-    padding-bottom: 20px;
-  
-}
+
 .carousel-indicators .active{
     background-color: rgb(170, 248, 44) !important;
 }
@@ -169,3 +160,23 @@ padding: 40px 0px;
   .footer{
       text-align: center;
   }
+
+
+
+  .categoris-section{
+      width: 150px;
+      margin: 0 auto;
+     padding-bottom: 10px;
+ 
+  }
+  .orange-border{
+      
+      width: 150px;
+      margin: 0 auto;  
+      height: 8px;
+      background-color: orange;
+      border-radius: 10px;
+      margin-bottom: 80px;
+   
+  }
+  
