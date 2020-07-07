@@ -1,0 +1,151 @@
+
+
+
+.header-style{
+ margin-top: 40px;
+
+}
+.slide-Backcolor{
+    background-color: rgb(248, 241, 241);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    width: 82%;
+
+}
+.slide-content-padding{
+    padding: 20px 40px;
+}
+.slide-content-padding p{
+    width: 420px;
+}
+.price-color{
+    color:#ec4c7a;
+    margin-bottom: 20px;
+}
+.phone-produt{
+    margin-bottom: 100px;
+    
+}
+.mobile-style{
+
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    box-shadow: 5px 5px 10px rgb(211, 210, 210);
+   
+}
+
+.mobile-style img{
+width: 70%;
+margin: 0 auto;
+padding: 40px 0px;
+}
+
+.text-center{
+    width: 90%;
+    margin: 0 auto; 
+}
+.text-center h4{
+    margin-bottom: 20px;
+}
+
+
+
+.float-left{
+    margin-bottom: 20px;
+}
+.float-right a{
+    text-align: right;
+    color: coral;
+    text-decoration: none;
+}
+#Categories{
+    margin-bottom: 50px;
+}
+.Categories{
+    text-align: center;
+    padding-bottom: 8px;
+    border-bottom: 3px solid rgb(95, 228, 34);
+    
+ 
+}
+.img-size img{
+    width:100%;
+    
+}
+.images-style img{
+    width: 70%;
+    margin: 0 auto;
+    
+    
+ 
+}
+.images-style{
+    
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding: 40px 20px;
+    border-radius:20px 2px;
+    outline: none;
+    border: none;
+    box-shadow: 5px 5px 20px rgb(211, 210, 210);
+}
+.single-img-style{
+   height: 500px; 
+
+}
+ .single-img-style img{
+    width: 90%;
+    padding: 30px 40px 40px 40px;
+    border-radius:5px 10px 5px 30px;
+    outline: none;
+    border: none;
+    box-shadow: 5px 5px 20px rgb(211, 210, 210); 
+
+ }
+ .single-img-styl h3{
+
+ }
+
+
+#about-us{
+    padding: 40px;
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    color: black;
+}
+#about-team{
+    margin-bottom: 50px;
+}
+#about-us p{
+    width: 500px;
+   margin: 0 auto;
+}
+.title {
+    color: grey;
+  }
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: rgb(37, 37, 37);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }  
+
+  .team-style{
+    box-shadow: 5px 5px 10px rgb(211, 210, 210);
+    border: none;
+    outline: 0;
+  }
+  .sumbit{
+      background-color: rgb(211, 210, 210);
+      margin-bottom: 100px;
+  }
+  .footer{
+      text-align: center;
+  }
